@@ -7,6 +7,7 @@ public class MyJavaClass {
 	System.out.println("Hello India");
 	System.out.println("Hello Chennai");
 	System.out.println("Hello Infoview");
+	System.out.println("Hello CJK");
 	}
 
 }
